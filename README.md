@@ -1,11 +1,20 @@
-- 👋 Hi, I’m Aditya Kumar, A Full stack developer at Chat360
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Redis, postgresql
-- 💞️ I’m looking to collaborate on awesome projects on Mern stack and django, react
-- 📫 You can reach out to me through https://www.linkedin.com/in/aditya-kumar-9208a5205/
-- 😄 Pronouns: He
+# 👋 Hi, I'm Aditya Kumar!  
 
-<!---
-adityachat360/adityachat360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full Stack Developer at Chat360**  
+💻 **Technologies:** React.js, Next.js, Django, Node.js, PostgreSQL, Redis, Firebase  
+🌱 **Currently Exploring:** Redis, PostgreSQL, WebSockets, Microservices  
+🤝 **Looking to Collaborate on:** Scalable MERN & Django Projects  
+📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/aditya-kumar-9208a5205/)  
+
+## 🛠 Tech Stack  
+- **Frontend:** React.js, Next.js, Tailwind CSS, TypeScript  
+- **Backend:** Node.js, Django, Express.js  
+- **Databases:** PostgreSQL, MongoDB, Firebase, Redis  
+- **DevOps & Tools:** Docker, AWS, Git, CI/CD, WebSockets  
+
+
+## 🏆 Achievements  
+🎯 **2+ years** of experience in Full Stack Development  
+💡 Building real-time chat applications with WebSockets  
+📊 Strong understanding of Data Structures & Database Management  
+  
